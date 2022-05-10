@@ -310,6 +310,9 @@ h6{font-size: 16px;}
     background-color: #fff;
     transition: transform .2s;
     padding: 10px;
+    cursor: pointer;
+    height:400px;
+    text-align: justify; 
     
     box-shadow: 5px 8px 4px rgba(146, 161, 176, 0.15);
   }
